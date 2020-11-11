@@ -5,22 +5,19 @@ plugins {
     kotlin("jvm") version kotlinVersion
     kotlin("kapt") version kotlinVersion
     kotlin("plugin.allopen") version kotlinVersion
-    kotlin("plugin.spring") version kotlinVersion
-    kotlin("plugin.jpa") version kotlinVersion
 }
 
-group = "me.saro.example"
-version = "1.0-SNAPSHOT"
+group = "saro.example"
+version = "1.0"
 java.sourceCompatibility = JavaVersion.VERSION_12
-
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    implementation(kotlin("stdlib"))
-    testImplementation("junit:junit:4.12")
+    implementation("org.jetbrains.kotlin:kotlin-reflect")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 }
 
 tasks.withType<JavaCompile> {
