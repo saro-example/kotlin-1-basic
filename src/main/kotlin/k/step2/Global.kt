@@ -17,6 +17,5 @@ fun main() {
     println(UTF8)
     println(ymd())
     println("코틀린 예제 입니다.".has("예제"))
+
 }
-
-
