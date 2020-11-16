@@ -1,4 +1,4 @@
-package k.step4
+package kotlin.example
 
 fun main() {
     val cl1: Class1? = null

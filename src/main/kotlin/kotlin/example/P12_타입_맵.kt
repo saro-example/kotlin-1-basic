@@ -1,4 +1,4 @@
-package k.step3
+package kotlin.example
 
 fun main() {
     var map = mapOf("key1" to "값1", "key2" to "값2", "key3" to "값3")

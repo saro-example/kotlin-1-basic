@@ -1,4 +1,4 @@
-package k.step2
+package kotlin.example
 
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter

@@ -1,4 +1,4 @@
-package k.step3
+package kotlin.example
 
 fun main() {
     // 코틀린에서 == 은 자바의 .equal 과 같다.

@@ -1,4 +1,4 @@
-package k.step3
+package kotlin.example
 
 fun main() {
     // 코틀린은 표면적으로 원시타입이 없다.

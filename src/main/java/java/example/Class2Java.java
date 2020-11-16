@@ -1,4 +1,4 @@
-package j.step1;
+package java.example;
 
 class Class2JavaParent {
     public String hi() {

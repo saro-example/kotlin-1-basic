@@ -1,4 +1,4 @@
-package k.step3
+package kotlin.example
 
 import java.util.stream.Stream
 import kotlin.streams.toList

@@ -1,4 +1,4 @@
-package k.step3
+package kotlin.example
 
 fun main() {
     val list = listOf("1", "2", "3")

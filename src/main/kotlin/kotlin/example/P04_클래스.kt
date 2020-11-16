@@ -1,4 +1,4 @@
-package k.step1
+package kotlin.example
 
 class Class1Basic(
     private val name: String = "String",

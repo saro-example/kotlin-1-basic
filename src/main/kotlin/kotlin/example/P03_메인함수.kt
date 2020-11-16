@@ -1,4 +1,4 @@
-package k.step1
+package kotlin.example
 
 fun main() = println("Hello World")
 

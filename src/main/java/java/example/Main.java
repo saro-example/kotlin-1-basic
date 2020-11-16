@@ -1,4 +1,4 @@
-package j.step1;
+package java.example;
 
 public class Main {
     public static void main(String[] args) {

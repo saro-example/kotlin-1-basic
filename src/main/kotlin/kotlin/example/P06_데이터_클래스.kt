@@ -1,4 +1,4 @@
-package k.step1
+package kotlin.example
 
 // 롬복의 @Data 와 유사하다.
 data class Class3 (

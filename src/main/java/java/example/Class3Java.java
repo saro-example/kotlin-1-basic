@@ -1,6 +1,6 @@
-package j.step1;
+package java.example;
 
-import k.step1.Class3;
+import kotlin.example.Class3;
 
 public class Class3Java {
     public static void main(String[] args) {

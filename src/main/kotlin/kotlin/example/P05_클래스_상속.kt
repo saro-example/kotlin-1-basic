@@ -1,4 +1,4 @@
-package k.step1
+package kotlin.example
 
 open class Class2JavaParent {
     fun hi() = "HELLO"

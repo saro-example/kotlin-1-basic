@@ -1,4 +1,4 @@
-package k.step1
+package kotlin.example
 
 data class Class4(
     var value: String = "스트링"
