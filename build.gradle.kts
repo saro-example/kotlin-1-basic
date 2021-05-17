@@ -9,7 +9,7 @@ plugins {
 
 group = "saro.example"
 version = "1.0"
-java.sourceCompatibility = JavaVersion.VERSION_12
+java.sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     mavenCentral()
@@ -27,6 +27,6 @@ tasks.withType<JavaCompile> {
 tasks.withType<KotlinCompile> {
     kotlinOptions {
         freeCompilerArgs = listOf("-Xjsr305=strict")
-        jvmTarget = "12"
+        jvmTarget = "11"
     }
 }

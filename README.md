@@ -5,10 +5,12 @@
   - [Spring](https://github.com/saro-example/kotlin-vue--spring)
   - [Vue.js](https://github.com/saro-example/kotlin-vue--vue)
 
-# basic
+# Basic
 
-## 개발환경
+### 개발환경
 * IDE : IntelliJ IDEA (Ultimate, Community)
+   * https://www.jetbrains.com/idea/download/#section=windows
+     * 커뮤니티 버전 무료 이용가능
    * 인텔리제이에서 Project From Version Control 을 통해 git을 받습니다.
 * charset
    * 글자가 깨질경우 -Dfile.encoding=UTF-8 옵션을 추가합니다.
@@ -17,8 +19,8 @@
    * 컴파일이 되지않는경우 
       * File -> Project Structure -> Project 에서 jdk 11
 
-## 참고자료
+### 참고자료
 * 문서
-  * https://github.com/saro-example/kotlin-vue--basic/raw/main/%EC%BD%94%ED%8B%80%EB%A6%B0.pptx
+  * [PPT 자료 다운로드](https://github.com/saro-example/kotlin-vue--basic/raw/main/%EC%BD%94%ED%8B%80%EB%A6%B0.pptx)
 * 온라인 실행
   * https://play.kotlinlang.org/
